@@ -2,4 +2,4 @@
 
 - v340pro dual vega10 @ slot3
 - acpi table mod for initrd
-- disable sriov kernel option
+- disable sriov kernel module
